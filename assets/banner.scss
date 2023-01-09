@@ -1,0 +1,65 @@
+#banner {
+  width: 100%;
+  height: 696px;
+  @media only screen and (max-width: 991px) {
+    height: 420px;
+  }
+  @media only screen and (max-width: 768px) {
+    height: 220px;
+    margin-bottom: 225px;
+  }
+  background: url("./assets/img/pattern-banner.jpg") center center repeat;
+  .container {
+    height: 100%;
+    background: url("./assets/img/banner.jpg") top center no-repeat;
+    background-size: cover;
+    position: relative;
+    .masthead {
+      position: absolute;
+      top: 375px;
+      left: 0;
+      @media only screen and (max-width: 991px) {
+        top: 210px;
+      }
+      @media only screen and (max-width: 768px) {
+        top: 100%;
+        overflow: hidden;
+      }
+      @include masthead;
+    }
+  }
+}
+#intro {
+  h1 {
+    color: $primary;
+    font-size: 5.2rem;
+    font-weight: 400;
+    padding-bottom: 3rem;
+    @media only screen and (max-width: 991px) {
+      font-size: 3.2rem;
+      padding-bottom: 2rem;
+    }
+    @media only screen and (max-width: 768px) {
+      font-size: 3rem;
+    }
+  }
+  p {
+    font-weight: 500;
+    font-size: 2.3rem;
+    line-height: 3.6rem;
+    padding-bottom: 6.4rem;
+    margin-bottom: 0;
+    @media only screen and (max-width: 991px) {
+      font-size: 2rem;
+      line-height: 3rem;
+      padding-bottom: 4.4rem;
+    }
+    @media only screen and (max-width: 768px) {
+      font-size: 1.8rem;
+      padding-bottom: 3rem;
+    }
+  }
+}
+#page-top {
+  background: url("./assets/img/pattern-banner.jpg") center center repeat;
+}

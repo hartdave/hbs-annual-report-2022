@@ -1,0 +1,23 @@
+{
+  "name": "hsb-annual-report",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate --modern",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "chart.js": "2",
+    "chartjs-plugin-datalabels": "1",
+    "nuxt": "^2.15.8",
+    "nuxt-lazy-load": "^1.2.9",
+    "nuxt-webpack-optimisations": "^2.1.2"
+  },
+  "devDependencies": {
+    "sass": "^1.46.0",
+    "sass-loader": "10.1.1"
+  }
+}

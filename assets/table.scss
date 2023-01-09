@@ -1,0 +1,160 @@
+table {
+  width: 100%;
+  table-layout: auto;
+  border-collapse: collapse;
+  margin-bottom: 4rem;
+
+  tr {
+    font-size: 1.5rem;
+
+    @media only screen and (max-width: 991px) {
+      font-size: 1.4rem;
+    }
+
+    &.title {
+      align-items: baseline;
+
+      td {
+        font-weight: 600;
+        font-size: 2rem;
+
+        @media only screen and (max-width: 991px) {
+          font-size: 1.5rem;
+        }
+
+        &:first-of-type {
+          font-size: 3rem;
+
+          @media only screen and (max-width: 991px) {
+            font-size: 1.7rem;
+          }
+        }
+      }
+    }
+
+    &.white {
+      font-weight: 600;
+      border-bottom: 1px solid $tan;
+    }
+
+    &.subtable {
+      td {
+        &:first-of-type {
+          padding-left: 2rem;
+        }
+      }
+    }
+
+    &.total {
+      background: #006085;
+      color: $white;
+      font-weight: 600;
+    }
+
+    &:nth-of-type(2n):not(.total):not(.white):not(.title) {
+      background: $tan;
+    }
+
+    td {
+      padding: 1.5rem 1rem;
+      text-align: right;
+
+      &:first-of-type {
+        text-align: left;
+      }
+
+      @media only screen and (max-width: 991px) {
+        padding: 1rem;
+        width: 25%;
+      }
+
+      i {
+        display: block;
+        font-weight: normal;
+        font-size: 1.2rem;
+        margin-top: 10px;
+      }
+    }
+  }
+
+  &.four {
+    tr {
+      display: grid;
+      grid-template-columns: 55% repeat(auto-fill, calc(45% / 3));
+
+      @media only screen and (max-width: 991px) {
+        grid-template-columns: 40% repeat(auto-fill, calc(60% / 3));
+      }
+
+      td {
+        width: 100%;
+      }
+    }
+  }
+
+  &.five {
+    min-width: 660px;
+
+    tr {
+      display: grid;
+      grid-template-columns: 30% repeat(auto-fill, calc(69% / 4));
+
+      td {
+        width: 100%;
+      }
+    }
+  }
+
+  &.six {
+    min-width: 660px;
+
+    tr {
+      display: grid;
+      grid-template-columns: 23% repeat(auto-fill, calc(77% / 5));
+
+      td {
+        width: 100%;
+      }
+    }
+  }
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+}
+
+.table-fade {
+  position: relative;
+  margin-bottom: 4rem;
+
+  @media only screen and (max-width: 660px) {
+    &:after {
+      display: block;
+      content: "";
+      height: 100%;
+      width: 40px;
+      position: absolute;
+      top: 0;
+      right: 0;
+      background: rgb(255, 255, 255);
+      background: linear-gradient(
+        90deg,
+        rgba(0, 0, 0, 0) 0%,
+        rgba(0, 0, 0, 0.2) 100%
+      );
+    }
+  }
+}
+
+.overflow {
+  position: relative;
+  width: 100%;
+  overflow: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  margin-bottom: 4rem;
+
+  &:last-of-type {
+    margin-bottom: 0;
+  }
+}

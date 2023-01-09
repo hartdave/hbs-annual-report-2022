@@ -1,0 +1,295 @@
+@mixin masthead {
+  display: flex;
+
+  @media only screen and (max-width: 768px) {
+    display: block;
+    width: 100%;
+  }
+
+  .title {
+    background: $primary;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3.0rem 6rem .5rem;
+    height: 180px;
+
+    @media only screen and (max-width: 768px) {
+      width: 100%;
+      padding: 2.4rem 2.4rem 1rem;
+      height: auto;
+    }
+
+    h2 {
+      color: $white;
+      font-size: 11.2rem;
+      font-weight: 200;
+      text-align: center;
+      line-height: 6.5rem;
+      margin-bottom: 0;
+
+      @media only screen and (max-width: 768px) {
+        font-size: 8rem;
+        margin: 0;
+        line-height: 5rem;
+      }
+
+      span {
+        display: block;
+        font-size: 2.8rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        text-align: left;
+
+        @media only screen and (max-width: 768px) {
+          font-size: 1.8rem;
+        }
+      }
+    }
+  }
+
+  .subnav {
+    height: 100%;
+
+    @media only screen and (max-width: 991px) {
+      width: 100%;
+    }
+
+    li {
+      display: block;
+
+      &:first-of-type {
+        border-top: 1px solid $tandark;
+      }
+
+      border-bottom: 1px solid $tandark;
+      height: 45px;
+
+      @media only screen and (max-width: 768px) {
+        &:nth-of-type(2) {
+          border-top: 1px solid $tandark;
+        }
+
+        &:nth-of-type(2),
+        &:nth-of-type(4) {
+          position: relative;
+          z-index: 2;
+          border-left: 1px solid $tandark;
+        }
+      }
+
+      a,
+      button {
+        position: relative;
+        width: 100%;
+        height: 100%;
+        background: $white;
+        display: block;
+        align-items: center;
+        padding: 1rem 2rem;
+        border-right: 0px solid $white;
+        font-size: 1.6rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        color: $black;
+        transition: all 0.2s ease-in-out;
+        cursor: pointer;
+        z-index: 1;
+        min-width: 190px;
+        line-height: 22px;
+        text-align: left;
+        font-family: $body-font;
+
+        &.nuxt-link-exact-active {
+          color: $primary;
+        }
+      }
+
+      &:last-child {
+        a {
+          border-bottom: none;
+        }
+      }
+
+      &:hover {
+
+        a,
+        button {
+          text-decoration: underline;
+        }
+      }
+    }
+
+    @media only screen and (max-width: 768px) {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, 50%);
+    }
+  }
+}
+
+@mixin line {
+  position: absolute;
+  content: "";
+  width: 40px;
+  height: 5px;
+  top: 50%;
+  background: $black;
+  transition: all 0.2s ease-in-out;
+  left: 16px;
+}
+
+@mixin persongrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 180px);
+  grid-template-rows: 1.5fr;
+  gap: 2.4rem 1.4rem;
+  @media only screen and (max-width: 768px) {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .person {
+    img {
+      width: 180px;
+      height: 180px;
+      margin-bottom: 5px;
+
+      @media only screen and (max-width: 991px) {
+        width: 160px;
+        height: 160px;
+      }
+
+      @media only screen and (max-width: 768px) {
+        width: auto;
+        height: auto;
+      }
+    }
+
+    p,
+    a {
+      margin: 0;
+      line-height: 2rem;
+
+      @media only screen and (max-width: 991px) {
+        line-height: 1.6rem;
+      }
+
+      &.link {
+        display: block;
+        font-size: 1.6rem;
+        font-weight: 600;
+        color: $primary;
+        text-decoration: underline;
+        margin-bottom: 3px;
+
+        @media only screen and (max-width: 991px) {
+          line-height: 1.4rem;
+        }
+        &:hover {
+          text-decoration: none;
+        }
+      }
+
+      &.name,
+      &.mba {
+        font-size: 1.6rem;
+        font-weight: 600;
+        color: $black;
+
+        span {
+          display: block;
+          font-size: 1.3rem;
+          font-weight: 400;
+          margin-top: 5px;
+          font-style: italic;
+        }
+      }
+
+      &.department {
+        font-size: 1.4rem;
+        font-style: italic;
+      }
+    }
+  }
+}
+
+@mixin h2 {
+  color: $black;
+  font-size: 3rem;
+  font-weight: 500;
+  letter-spacing: .3px;
+  line-height: 3rem;
+  text-transform: none;
+  margin-bottom: 1.6rem;
+
+  @media only screen and (max-width: 768px) {
+    font-size: 2.4rem;
+    line-height: 2.4rem;
+  }
+
+  &.blue {
+    color: $secondary;
+    font-size: 2.4rem;
+    font-weight: 600;
+    letter-spacing: .3px;
+    line-height: 3rem;
+    text-transform: none;
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    letter-spacing: .24px;
+
+    @media only screen and (max-width: 768px) {
+      font-size: 2.2rem;
+    }
+  }
+}
+
+@mixin h3 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1.2rem;
+  color: black;
+
+  @media only screen and (max-width: 768px) {
+    font-size: 1.8rem;
+  }
+  &.nomargin {
+    margin-bottom: 0;
+  }
+  &.blue {
+    color: $secondary;
+  }
+}
+
+@mixin h4 {
+  font-size: 1.7rem;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+@mixin h5 {
+  color: $black;
+  font-weight: bold;
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  margin-bottom: 0;
+  @media only screen and (max-width: 768px) {
+    font-size: 1.2rem;
+  }
+}
+
+@mixin p {
+  font-size: 1.8rem;
+  line-height: 3rem;
+  margin-bottom: 2.5rem;
+
+  @media only screen and (max-width: 768px) {
+    font-size: 1.6rem;
+    line-height: 2.5rem;
+    margin-bottom: 1.8rem;
+  }
+
+  a {
+    color: $primary;
+    text-decoration: underline;
+  }
+}

@@ -1,0 +1,29 @@
+.container.sep {
+  display: grid;
+}
+.separator {
+  display: block;
+  height: 1px;
+  background: #a49f9a;
+  position: relative;
+  margin: 4.8rem 0;
+  width: 100%;
+  &:before,
+  &:after {
+    content: "";
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    display: block;
+    background: #a49f9a;
+    border-radius: 100%;
+    top: 50%;
+    margin-top: -4px;
+  }
+  &:before {
+    left: 0;
+  }
+  &:after {
+    right: 0;
+  }
+}

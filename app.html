@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html {{ HTML_ATTRS }}>
+  <head>
+    {{ HEAD }}
+    <script
+      type="text/javascript"
+      src="https://webassets.hbs.edu/libs/analytics/1.0/tagmanager.min.js"
+    ></script>
+    <script type="text/javascript">
+      tagManager.settings({
+        profile: "/about/annualreport/2022",
+        baseUrl: "/about/annualreport/2022/",
+      });
+    </script>
+  </head>
+
+  <body {{ BODY_ATTRS }}>
+    {{ APP }}
+  </body>
+</html>

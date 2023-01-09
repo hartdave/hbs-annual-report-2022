@@ -1,0 +1,181 @@
+.split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 2rem;
+  margin-bottom: 2.4rem;
+  clear: both;
+  @media only screen and (max-width: 991px) {
+    gap: 0 2.4rem;
+    grid-template-columns: 1fr;
+    margin-top: 2.4rem;
+    margin-bottom: 0;
+    .content {
+      order: 2;
+    }
+
+    .image {
+      order: 1;
+      text-align: center;
+
+      img {
+        margin: 0 auto 2rem;
+        max-width: auto;
+
+        @media only screen and (max-width: 768px) {
+          max-width: 100%;
+        }
+      }
+    }
+
+    .more {
+      order: 2;
+    }
+    @media only screen and (max-width: 991px) {
+      .left .chart-title {
+        margin-top: 0;
+      }
+      .right .chart-title {
+        margin-top: 2.4rem;
+      }
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+    gap: 0;
+    margin-bottom: 0;
+  }
+  .tan-list {
+    margin-bottom: 0;
+  }
+}
+.left,
+.right,
+.content {
+  *:last-child:not(.chart):not(.tan-list):not(table) {
+    margin-bottom: 0;
+  }
+}
+
+.module-three {
+  &.first {
+    padding-top: 5rem;
+  }
+
+  .left {
+    display: block;
+    @media only screen and (max-width: 768px) {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    img {
+      float: left;
+      width: 25%;
+      max-width: 180px;
+      margin: 0 2.4rem 2.4rem 0;
+
+      @media only screen and (max-width: 768px) {
+        width: 100%;
+      }
+    }
+
+    &:after {
+      display: block;
+      content: "";
+      width: 100%;
+      clear: both;
+    }
+  }
+
+  .right {
+    display: block;
+
+    img {
+      float: right;
+      width: 25%;
+      max-width: 180px;
+      margin: 0 0 2.4rem 2.4rem;
+
+      @media only screen and (max-width: 768px) {
+        width: 40%;
+      }
+    }
+  }
+  .rightlgimg {
+    display: block;
+
+    img {
+      float: right;
+      width: 35%;
+      max-width: 240px;
+      margin: 0 0 2.4rem 2.4rem;
+
+      @media only screen and (max-width: 768px) {
+        width: 40%;
+      }
+    }
+  }
+}
+
+.module-ten {
+  background: url("./assets/img/pattern-ten.jpg") top center repeat;
+  padding: 8rem 0;
+
+  .container {
+    background: $white;
+    padding: 4rem 1rem 5.6rem;
+
+    h2 {
+      font-size: 4rem;
+      color: #6578b4;
+      text-align: center;
+      margin-bottom: 5rem;
+      text-transform: none;
+      font-weight: 600;
+      line-height: 4rem;
+    }
+
+    .grid-three {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-rows: 1.5fr;
+      gap: 0px 0em;
+
+      @media only screen and (max-width: 991px) {
+        gap: 2.4rem;
+        grid-template-columns: 1fr;
+      }
+
+      div {
+        text-align: center;
+        width: 100%;
+
+        .number {
+          display: block;
+          font-size: 10rem;
+          color: #6578b4;
+          font-weight: 600;
+          margin-bottom: 2rem;
+
+          @media only screen and (max-width: 991px) {
+            font-size: 5rem;
+            margin-bottom: 1rem;
+          }
+        }
+
+        .description {
+          display: block;
+          font-size: 1.8rem;
+          line-height: 2.2rem;
+          color: $black;
+          font-weight: 600;
+
+          @media only screen and (max-width: 991px) {
+            font-size: 1.6rem;
+            line-height: 2rem;
+          }
+        }
+      }
+    }
+  }
+}
