@@ -95,38 +95,38 @@
                   </tr>
                   <tr>
                     <td>Applications</td>
+                    <td>8,264</td>
                     <td>9,773</td>
                     <td>9,304</td>
                     <td>9,228</td>
-                    <td>9,886</td>
                   </tr>
                   <tr>
                     <td>Percent Admitted</td>
+                    <td>15%</td>
                     <td>13%</td>
                     <td>13%</td>
                     <td>12%</td>
-                    <td>11%</td>
                   </tr>
                   <tr>
                     <td>Yield</td>
+                    <td>86%</td>
                     <td>87%</td>
                     <td>85%</td>
                     <td>89%</td>
-                    <td>91%</td>
                   </tr>
                   <tr>
                     <td>Female</td>
-                    <td>87%</td>
-                    <td>85%</td>
-                    <td>89%</td>
-                    <td>91%</td>
+                    <td>46%</td>
+                    <td>44%</td>
+                    <td>43%</td>
+                    <td>41%</td>
                   </tr>
                   <tr>
                     <td>International Citizenship</td>
-                    <td>87%</td>
-                    <td>85%</td>
-                    <td>89%</td>
-                    <td>91%</td>
+                    <td>37%</td>
+                    <td>33%</td>
+                    <td>35%</td>
+                    <td>34%</td>
                   </tr>
                   <tr>
                     <td>
@@ -139,34 +139,83 @@
                   </tr>
                   <tr class="keytan">
                     <td>American Indian / Alaska Native</td>
-                    <td>87%</td>
-                    <td>85%</td>
-                    <td>89%</td>
-                    <td>91%</td>
+                    <td>0%</td>
+                    <td>0%</td>
+                    <td>0%</td>
+                    <td>0%</td>
+                  </tr>
+                  <tr class="keytan">
+                    <td>Asian</td>
+                    <td>24%</td>
+                    <td>19%</td>
+                    <td>17%</td>
+                    <td>21%</td>
+                  </tr>
+                  <tr class="keytan">
+                    <td>Black / African American</td>
+                    <td>12%</td>
+                    <td>11%</td>
+                    <td>9%</td>
+                    <td>7%</td>
+                  </tr>
+                  <tr class="keytan">
+                    <td>Hispanic / Latino / Latinx</td>
+                    <td>11%</td>
+                    <td>9%</td>
+                    <td>11%</td>
+                    <td>8%</td>
+                  </tr>
+                  <tr class="keytan">
+                    <td>Multi-Race / Non-Hispanic</td>
+                    <td>4%</td>
+                    <td>6%</td>
+                    <td>5%</td>
+                    <td>3%</td>
+                  </tr>
+                  <tr class="keytan">
+                    <td>Native Hawaiian / Other Pacific Islander</td>
+                    <td>0%</td>
+                    <td>0%</td>
+                    <td>0%</td>
+                    <td>0%</td>
+                  </tr>
+                  <tr class="keytan">
+                    <td>White</td>
+                    <td>47%</td>
+                    <td>53%</td>
+                    <td>57%</td>
+                    <td>59%</td>
+                  </tr>
+                  <tr class="keytan">
+                    <td>Did Not Report / Unknown</td>
+                    <td>1%</td>
+                    <td>1%</td>
+                    <td>1%</td>
+                    <td>2%</td>
                   </tr>
                   <tr>
                     <td><h3 class="keysubheader">All Students</h3></td>
                   </tr>
                   <tr>
                     <td>Enrollment</td>
+                    <td>1,870</td>
                     <td>1,609</td>
                     <td>1,877</td>
                     <td>1,881</td>
-                    <td>1,870</td>
                   </tr>
                   <tr>
                     <td>Tuition</td>
                     <td>$73,440</td>
                     <td>$73,440</td>
                     <td>$73,440</td>
-                    <td>$72,000</td>
+                    <td>$73,440</td>
                   </tr>
                   <tr>
                     <td>Average Fellowship Aid Per Student</td>
-                    <td>$41,806</td>
+                    <td>$43,794</td>
+                    <td>$42,786</td>
                     <td>$42,225</td>
                     <td>$42,034</td>
-                    <td>$38,959</td>
                   </tr>
                 </tbody>
               </table>
