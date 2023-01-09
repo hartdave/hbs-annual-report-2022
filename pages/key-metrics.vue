@@ -81,7 +81,7 @@
           </div>
           <div class="table-fade">
             <div class="overflow">
-              <table class="six">
+              <table class="five">
                 <tbody>
                   <tr class="title">
                     <td><h2>MBA</h2></td>
@@ -89,37 +89,22 @@
                     <td>2020</td>
                     <td>2019</td>
                     <td>2018</td>
-                    <td>2017</td>
                   </tr>
                   <tr>
                     <td><h3 class="keysubheader">Incoming Class</h3></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
                   </tr>
                   <tr>
-                    <td>
-                      <div class="citecontainer">
-                        Applications
-                        <a href="key-metrics#note-1"
-                          ><div class="citeref" id="link-1">1</div></a
-                        >
-                      </div>
-                    </td>
+                    <td>Applications</td>
                     <td>9,773</td>
                     <td>9,304</td>
                     <td>9,228</td>
                     <td>9,886</td>
-                    <td>10,351</td>
                   </tr>
                   <tr>
                     <td>Percent Admitted</td>
                     <td>13%</td>
                     <td>13%</td>
                     <td>12%</td>
-                    <td>11%</td>
                     <td>11%</td>
                   </tr>
                   <tr>
@@ -128,7 +113,39 @@
                     <td>85%</td>
                     <td>89%</td>
                     <td>91%</td>
+                  </tr>
+                  <tr>
+                    <td>Female</td>
+                    <td>87%</td>
+                    <td>85%</td>
+                    <td>89%</td>
                     <td>91%</td>
+                  </tr>
+                  <tr>
+                    <td>International Citizenship</td>
+                    <td>87%</td>
+                    <td>85%</td>
+                    <td>89%</td>
+                    <td>91%</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div class="citecontainer">
+                        US Race / Ethnicity<a href="key-metrics#note-1"
+                          ><div class="citeref" id="link-1">1</div></a
+                        >
+                      </div>
+                    </td>
+                  </tr>
+                  <tr class="keytan">
+                    <td>American Indian / Alaska Native</td>
+                    <td>87%</td>
+                    <td>85%</td>
+                    <td>89%</td>
+                    <td>91%</td>
+                  </tr>
+                  <tr>
+                    <td><h3 class="keysubheader">All Students</h3></td>
                   </tr>
                   <tr>
                     <td>Enrollment</td>
@@ -136,7 +153,6 @@
                     <td>1,877</td>
                     <td>1,881</td>
                     <td>1,870</td>
-                    <td>1,879</td>
                   </tr>
                   <tr>
                     <td>Tuition</td>
@@ -144,7 +160,6 @@
                     <td>$73,440</td>
                     <td>$73,440</td>
                     <td>$72,000</td>
-                    <td>$63,675</td>
                   </tr>
                   <tr>
                     <td>Average Fellowship Aid Per Student</td>
@@ -152,7 +167,6 @@
                     <td>$42,225</td>
                     <td>$42,034</td>
                     <td>$38,959</td>
-                    <td>$37,312</td>
                   </tr>
                 </tbody>
               </table>

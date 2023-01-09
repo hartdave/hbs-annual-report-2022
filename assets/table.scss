@@ -77,6 +77,16 @@ table {
     }
   }
 
+  tr.keytan {
+    background: $tan !important;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    :first-child {
+      font-style: italic;
+      text-indent: 2em;
+    }
+  }
+
   &.four {
     tr {
       display: grid;
