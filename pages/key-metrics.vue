@@ -85,10 +85,10 @@
                 <tbody>
                   <tr class="title">
                     <td><h2>MBA</h2></td>
+                    <td>2022</td>
                     <td>2021</td>
                     <td>2020</td>
                     <td>2019</td>
-                    <td>2018</td>
                   </tr>
                   <tr>
                     <td><h3 class="keysubheader">Incoming Class</h3></td>
@@ -227,10 +227,10 @@
                 <tbody>
                   <tr class="title">
                     <td>Doctoral</td>
+                    <td>2022</td>
                     <td>2021</td>
                     <td>2020</td>
                     <td>2019</td>
-                    <td>2018</td>
                   </tr>
                   <tr>
                     <td><h3 class="keysubheader">Incoming Class</h3></td>
@@ -389,10 +389,10 @@
                 <tbody>
                   <tr class="title">
                     <td>Executive Education</td>
+                    <td>2022</td>
                     <td>2021</td>
                     <td>2020</td>
                     <td>2019</td>
-                    <td>2018</td>
                   </tr>
                   <tr>
                     <td>Enrollment</td>
@@ -520,23 +520,28 @@
           </div>
           <div class="table-fade">
             <div class="overflow">
-              <table class="six">
+              <table class="five">
                 <tbody>
                   <tr class="title">
                     <td>HBS Online</td>
+                    <td>2022</td>
                     <td>2021</td>
                     <td>2020</td>
                     <td>2019</td>
-                    <td>2018</td>
-                    <td>2017</td>
                   </tr>
                   <tr>
                     <td>Enrollment</td>
-                    <td>39,566</td>
+                    <td>40,667</td>
+                    <td>38,725</td>
                     <td>29,192</td>
                     <td>19,568</td>
-                    <td>12,936</td>
-                    <td>9,142</td>
+                  </tr>
+                  <tr>
+                    <td>CORe Participants</td>
+                    <td>5,183</td>
+                    <td>7,687</td>
+                    <td>7,477</td>
+                    <td>5,963</td>
                   </tr>
                 </tbody>
               </table>
