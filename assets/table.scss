@@ -86,6 +86,14 @@ table {
       padding-left: 2em;
     }
   }
+  tr.keywhite {
+    background: white !important;
+    border-top: 1px solid $tan !important;
+    :first-child {
+      font-style: italic;
+      padding-left: 2em;
+    }
+  }
 
   &.four {
     tr {

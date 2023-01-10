@@ -385,7 +385,7 @@
           </div>
           <div class="table-fade">
             <div class="overflow">
-              <table class="six">
+              <table class="five">
                 <tbody>
                   <tr class="title">
                     <td>Executive Education</td>
@@ -393,7 +393,6 @@
                     <td>2020</td>
                     <td>2019</td>
                     <td>2018</td>
-                    <td>2017</td>
                   </tr>
                   <tr>
                     <td>Enrollment</td>
@@ -401,7 +400,119 @@
                     <td>10,881</td>
                     <td>12,605</td>
                     <td>12,070</td>
-                    <td>11,361</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div class="citecontainer">
+                        Gender<a href="key-metrics#note-2"
+                          ><div class="citeref">2</div></a
+                        ><a href="key-metrics#note-4"
+                          ><div class="citeref" id="link-4">4</div></a
+                        >
+                      </div>
+                    </td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>Male</td>
+                    <td>68%</td>
+                    <td>68%</td>
+                    <td>70%</td>
+                    <td>72%</td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>Female</td>
+                    <td>32%</td>
+                    <td>32%</td>
+                    <td>30%</td>
+                    <td>28%</td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>Non-binary/ Gender Queer/ Other</td>
+                    <td>0%</td>
+                    <td>0%</td>
+                    <td>0%</td>
+                    <td>0%</td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>Did Not Report/ Unknown</td>
+                    <td>0%</td>
+                    <td>0%</td>
+                    <td>0%</td>
+                    <td>0%</td>
+                  </tr>
+                  <tr>
+                    <td>International Citizenship</td>
+                    <td>63%</td>
+                    <td>60%</td>
+                    <td>69%</td>
+                    <td>68%</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div class="citecontainer">
+                        US Race / Ethnicity<a href="key-metrics#note-1"
+                          ><div class="citeref">1</div></a
+                        ><a href="key-metrics#note-2"
+                          ><div class="citeref">2</div></a
+                        >
+                      </div>
+                    </td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>American Indian / Alaska Native</td>
+                    <td>0%</td>
+                    <td>0%</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>Asian/ Asian American</td>
+                    <td>12%</td>
+                    <td>6%</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>Black / African American</td>
+                    <td>9%</td>
+                    <td>4%</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>Hispanic / Latino / Latinx</td>
+                    <td>8%</td>
+                    <td>4%</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>Multi-Race / Non-Hispanic</td>
+                    <td>2%</td>
+                    <td>1%</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>Native Hawaiian / Other Pacific Islander</td>
+                    <td>0%</td>
+                    <td>0%</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>White</td>
+                    <td>43%</td>
+                    <td>22%</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>Did Not Report / Unknown</td>
+                    <td>26%</td>
+                    <td>64%</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
                   </tr>
                 </tbody>
               </table>
@@ -673,15 +784,14 @@ export default {
     return {
       main: false,
       isPage: true,
-      title: "Financials",
-      subTitle: "5 Year Summary",
+      title: "Key Metrics",
     };
   },
   head() {
     return {
-      title: `${this.title + " | " + this.subTitle}`,
+      title: this.title,
       bodyAttrs: {
-        class: "page financials",
+        class: "page ",
       },
     };
   },
