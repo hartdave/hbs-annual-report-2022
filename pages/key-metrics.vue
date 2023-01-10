@@ -549,47 +549,199 @@
           </div>
           <div class="table-fade">
             <div class="overflow">
-              <table class="six">
+              <table class="five">
                 <tbody>
                   <tr class="title">
                     <td>Faculty</td>
+                    <td>2022</td>
                     <td>2021</td>
                     <td>2020</td>
                     <td>2019</td>
-                    <td>2018</td>
-                    <td>2017</td>
                   </tr>
                   <tr>
-                    <td>Faculty Positions (full-time equivalents)</td>
+                    <td>Positions (full-time equivalents)</td>
+                    <td>272</td>
                     <td>256</td>
                     <td>244</td>
                     <td>233</td>
-                    <td>225</td>
-                    <td>233</td>
+                  </tr>
+                  <tr>
+                    <td>Positions (all)</td>
+                    <td>322</td>
+                    <td>293</td>
+                    <td>280</td>
+                    <td>267</td>
+                  </tr>
+                  <tr>
+                    <td>Gender: Female</td>
+                    <td>28%</td>
+                    <td>27%</td>
+                    <td>28%</td>
+                    <td>26%</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div class="citecontainer">
+                        US Race / Ethnicity<a href="key-metrics#note-1"
+                          ><div class="citeref">1</div></a
+                        ><a href="key-metrics#note-2"
+                          ><div class="citeref">2</div></a
+                        >
+                      </div>
+                    </td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>American Indian / Alaska Native</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>Asian</td>
+                    <td>19%</td>
+                    <td>19%</td>
+                    <td>19%</td>
+                    <td>19%</td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>Black / African American</td>
+                    <td>3%</td>
+                    <td>3%</td>
+                    <td>4%</td>
+                    <td>3%</td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>Hispanic / Latino / Latinx</td>
+                    <td>2%</td>
+                    <td>2%</td>
+                    <td>2%</td>
+                    <td>2%</td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>Multi-Race / Non-Hispanic</td>
+                    <td>4%</td>
+                    <td>4%</td>
+                    <td>4%</td>
+                    <td>4%</td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>Native Hawaiian / Other Pacific Islander</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>White</td>
+                    <td>72%</td>
+                    <td>71%</td>
+                    <td>71%</td>
+                    <td>72%</td>
+                  </tr>
+                  <tr class="keywhite">
+                    <td>Did Not Report / Unknown</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
                   </tr>
                   <tr>
                     <td>Teaching Materials</td>
+                    <td>637</td>
                     <td>668</td>
                     <td>676</td>
                     <td>626</td>
-                    <td>642</td>
-                    <td>573</td>
                   </tr>
                   <tr>
                     <td>Research Articles on HBR.org</td>
+                    <td>296</td>
                     <td>307</td>
                     <td>231</td>
                     <td>177</td>
-                    <td>199</td>
-                    <td>182</td>
                   </tr>
                   <tr>
                     <td>Books</td>
+                    <td>22</td>
                     <td>16</td>
                     <td>15</td>
                     <td>14</td>
-                    <td>11</td>
-                    <td>14</td>
+                  </tr>
+                  <tr>
+                    <td><h3 class="keysubheader">Faculty Leadership</h3></td>
+                  </tr>
+                  <tr>
+                    <td>Positions</td>
+                    <td>46</td>
+                    <td>44</td>
+                    <td>47</td>
+                    <td>46</td>
+                  </tr>
+                  <tr>
+                    <td>Gender: Female</td>
+                    <td>24%</td>
+                    <td>25%</td>
+                    <td>23%</td>
+                    <td>15%</td>
+                  </tr>
+                  <tr>
+                    <td>US Race / Ethnicity</td>
+                  </tr>
+                  <tr class="keytan">
+                    <td>American Indian / Alaska Native</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                  </tr>
+                  <tr class="keytan">
+                    <td>Asian</td>
+                    <td>27%</td>
+                    <td>20%</td>
+                    <td>17%</td>
+                    <td>26%</td>
+                  </tr>
+                  <tr class="keytan">
+                    <td>Black / African American</td>
+                    <td>2%</td>
+                    <td>2%</td>
+                    <td>4%</td>
+                    <td>0%</td>
+                  </tr>
+                  <tr class="keytan">
+                    <td>Hispanic / Latino / Latinx</td>
+                    <td>0%</td>
+                    <td>0%</td>
+                    <td>0%</td>
+                    <td>2%</td>
+                  </tr>
+                  <tr class="keytan">
+                    <td>Multi-Race / Non-Hispanic</td>
+                    <td>13%</td>
+                    <td>2%</td>
+                    <td>2%</td>
+                    <td>2%</td>
+                  </tr>
+                  <tr class="keytan">
+                    <td>Native Hawaiian / Other Pacific Islander</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                  </tr>
+                  <tr class="keytan">
+                    <td>White</td>
+                    <td>67%</td>
+                    <td>75%</td>
+                    <td>77%</td>
+                    <td>70%</td>
+                  </tr>
+                  <tr class="keytan">
+                    <td>Did Not Report / Unknown</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
+                    <td>&#8212;</td>
                   </tr>
                 </tbody>
               </table>
