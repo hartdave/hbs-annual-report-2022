@@ -12,47 +12,47 @@
           <h1>{{ this.subTitle }}</h1>
           <ul class="list">
             <li>
-              Operating revenues decreased 7 percent to $805 million, while
-              operating expenses declined 6 percent to $779 million.
+              Operating revenues increased 20 percent to a record $966 million,
+              while operating expenses increased 17 percent to $908 million.
             </li>
             <li>
-              Harvard Business School Online and Harvard Business Publishing
-              (HBP) generated record revenues, while MBA and Executive Education
-              tuition revenue declined.
+              The largest revenue drivers were Executive Education, MBA tuition
+              and fees, and Harvard Business Publishing.
             </li>
             <li>
-              Salaries and benefits grew 3 percent for the year, driven by an
-              increase in the number of faculty.
+              The major areas of expense growth were salaries and benefits,
+              other expenses, printing and publishing, and professional
+              services.
             </li>
             <li>
-              New gifts and pledges totaled $162 million, compared with $76
-              million in fiscal 2020.
+              New gifts and pledges totaled $172 million, compared with $162
+              million in fiscal 2021.
             </li>
             <li>
-              The return on the University's endowment was 33.6 percent,
-              compared with 7.3 percent in fiscal 2020.
+              The return on the University’s endowment was -1.8 percent,
+              compared with 33.6 percent in fiscal 2021.
             </li>
             <li>
-              The value of the School's endowment (after the net impact of
+              The value of the School’s endowment (after the net impact of
               distributions from the endowment and the addition of new gifts)
-              increased to $5.3 billion, from $4.1 billion a year earlier.
+              decreased to $5.1 billion, from $5.3 billion a year earlier.
             </li>
             <li>
               Capital investments in campus facilities and new construction
-              decreased to $22 million from $43 million in fiscal 2020.
+              increased to $43 million from $22 million in fiscal 2021.
             </li>
             <li>
-              The School generated an operating surplus of $26 million, compared
-              with $30 million for the prior year.
+              The School generated an operating surplus of $58 million, compared
+              with $26 million for the prior year.
             </li>
             <li>
-              HBS ended fiscal 2021 with an unrestricted reserves balance of
-              $211 million, compared with $174 million a year earlier.
+              HBS ended fiscal 2022 with an unrestricted reserves balance of
+              $227 million, compared with $211 million a year earlier.
             </li>
             <li>
-              The School's total net assets increased to $6.4 billion, from $5.2
-              billion at the end of fiscal 2020, primarily reflecting the impact
-              of growth in the market value of the endowment.
+              The School’s total net assets decreased to $6.2 billion as of June
+              30, 2022, from $6.4 billion as of June 30, 2021, primarily
+              reflecting a change in the total market value of the endowment.
             </li>
           </ul>
         </div>
@@ -81,5 +81,4 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
