@@ -955,39 +955,103 @@
           </div>
           <div class="table-fade">
             <div class="overflow">
-              <table class="six">
+              <table class="five">
                 <tbody>
                   <tr class="title">
                     <td>Publishing</td>
+                    <td>2022</td>
                     <td>2021</td>
                     <td>2020</td>
                     <td>2019</td>
-                    <td>2018</td>
-                    <td>2017</td>
                   </tr>
                   <tr>
                     <td>Cases Sold</td>
+                    <td>16,726,000</td>
                     <td>15,392,000</td>
                     <td>15,209,000</td>
                     <td>14,539,000</td>
-                    <td>15,062,000</td>
-                    <td>14,859,000</td>
                   </tr>
                   <tr>
                     <td>Harvard ManageMentor Active Users</td>
+                    <td>7,384,000</td>
                     <td>6,061,000</td>
                     <td>5,037,000</td>
                     <td>2,837,000</td>
-                    <td>2,430,000</td>
-                    <td>3,200,000</td>
                   </tr>
                   <tr>
                     <td>HBR.org Average Monthly Users</td>
-                    <td>11,797,000</td>
+                    <td>11,239,000</td>
+                    <td>11,787,000</td>
                     <td>9,956,000</td>
                     <td>6,916,000</td>
-                    <td>7,153,000</td>
-                    <td>7,012,000</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+          <div class="table-fade">
+            <div class="overflow">
+              <table class="five">
+                <tbody>
+                  <tr class="title">
+                    <td>Sustainability</td>
+                    <td>CY2021</td>
+                    <td>CY2020</td>
+                    <td>CY2019</td>
+                    <td>CY2018</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div class="citecontainer" id="link-6">
+                        GHG Emissions<a href="key-metrics#note-6"
+                          ><div class="citeref">6</div></a
+                        >
+                      </div>
+                      (metric tons of CO2 equivalent)
+                    </td>
+                    <td>9,098</td>
+                    <td>9,103</td>
+                    <td>11,562</td>
+                    <td>11,614</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div class="citecontainer" id="link-7">
+                        Energy (kbtu)<a href="key-metrics#note-7"
+                          ><div class="citeref">7</div></a
+                        >
+                      </div>
+                    </td>
+                    <td>121,948,442</td>
+                    <td>122,569,467</td>
+                    <td>150,713,824</td>
+                    <td>152,538,748</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div class="citecontainer" id="link-8">
+                        Water (100 cubic feet)<a href="key-metrics#note-8"
+                          ><div class="citeref">8</div></a
+                        >
+                      </div>
+                    </td>
+                    <td>32,735</td>
+                    <td>40,754</td>
+                    <td>51,025</td>
+                    <td>48,626</td>
+                  </tr>
+                  <tr>
+                    <td>
+                      <div class="citecontainer" id="link-9">
+                        Municipal Solid Waste (tons)<a href="key-metrics#note-9"
+                          ><div class="citeref">9</div></a
+                        >
+                      </div>
+                    </td>
+                    <td>204</td>
+                    <td>196</td>
+                    <td>394</td>
+                    <td>357</td>
                   </tr>
                 </tbody>
               </table>
