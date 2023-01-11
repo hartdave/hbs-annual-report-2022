@@ -154,7 +154,7 @@ export default {
       if (this.main) {
         this.isActive = !this.isActive;
       } else {
-        this.$router.push("/financials/five-year-summary");
+        this.$router.push("/financials/from-the-cfo");
       }
     },
     toggleMain() {

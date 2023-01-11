@@ -1,9 +1,6 @@
 <template>
   <ul class="submenu financials">
     <li>
-      <nuxt-link to="/financials/five-year-summary">5 Year Summary</nuxt-link>
-    </li>
-    <li>
       <nuxt-link to="/financials/from-the-cfo">From the CFO</nuxt-link>
     </li>
     <li>
@@ -32,10 +29,10 @@
 <script>
 export default {
   name: "FinancialSubmenu",
-    methods: {
-      test(){
-        console.log('tested');
-      },
+  methods: {
+    test() {
+      console.log("tested");
+    },
     toggleFinancials(e) {
       this.$emit("toggleFinancials");
     },
@@ -43,5 +40,4 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
