@@ -17,162 +17,236 @@
             class="left"
           />
           <p>
-            In fiscal 2021, Harvard Business School navigated the operational
-            and financial challenges of the global pandemic by staying true to
-            its guiding principles: The School prioritized the health and
-            well-being of its faculty, staff, and students as it leaned into its
-            mission of educating leaders who make a difference in the world.
+            After a year and a half of disruption caused by the global pandemic,
+            fiscal 2022 was a year of renewal and growth for Harvard Business
+            School. We set a bold intellectual agenda, delivered on ambitious
+            goals to strengthen the community, and charted an aspirational
+            course for the future, demonstrating the resilience of the School’s
+            faculty, staff, and students and the strength of the HBS economic
+            model.
           </p>
           <p>
-            Faced with the most significant disruption to the MBA Program since
-            World War II, the School's leadership—including outgoing Dean Nitin
-            Nohria and incoming Dean Srikant M. Datar—implemented a clear
-            strategy: Maintain the quality of the educational experience by
-            investing in hybrid and virtual classroom technologies; protect jobs
-            by reducing noncritical expenses and holding salaries level; and lay
-            the groundwork for important initiatives in a new, post-COVID world.
+            Total revenues increased to a record level in fiscal 2022, exceeding
+            our forecast and outpacing the growth in expenses. As a result, our
+            net operating surplus more than doubled, enabling us to invest in
+            the School’s emerging strategic priorities while maintaining a
+            healthy unrestricted reserves balance to spur new initiatives.
           </p>
           <p>
-            At the outset of the fiscal year, the School confronted two major
-            financial hurdles. First, roughly 20 percent of admitted MBA
-            students accepted the School's offer to defer their admission, and
-            another 15 percent of existing students took a leave of absence,
-            which meant the loss of tens of millions of dollars in tuition
-            revenue for fiscal 2021. Second, the pandemic forced Executive
-            Education to pivot from its entirely in-person learning model to an
-            all-virtual portfolio. Designing and implementing such a portfolio
-            from the ground up takes time. Given the complexity and time
-            constraints of the task, the initial revenue projection for virtual
-            Executive Education programming in fiscal 2021 was penciled in at
-            what seemed like a realistic expectation: $0.
+            In view of the School’s accomplishments this past year, it’s fair to
+            say that the pandemic has taught us important lessons. Financially
+            and operationally, the pandemic strengthened HBS as an institution.
+            We developed and integrated new technology into the classroom,
+            expanded our research initiatives, and created new muscles in the
+            area of virtual and blended teaching and learning.
           </p>
-          <p>
-            But with the entire School community coming together, HBS adapted.
-            Driven by better-than-expected results in Harvard Business
-            Publishing (HBP) and Harvard Business School Online and the support
-            of HBS alumni, the School delivered financial results that came in
-            significantly ahead of expectations. In a year when HBS had budgeted
-            an operating deficit, the School instead generated an operating
-            surplus of $26 million in fiscal 2021.
-          </p>
+
           <h2>The HBS Economic Model</h2>
           <p>
-            The resilience of the School's economic model was tested during
-            fiscal 2021 and proved sound. The HBS model is unique among Harvard
-            University's 12 graduate and professional schools. At its core is a
-            commitment to internally funded faculty research. Earned income from
-            Executive Education, HBP, and HBS Online, augmented by revenue from
-            MBA tuition and alumni gifts, generates a value-sustaining circle of
-            funding. These financial resources enable the School to execute on
-            its strategic priorities, regardless of the economic environment.
+            What distinguishes the HBS economic model is a commitment to
+            research that is largely internally funded. At the heart of this
+            research is the School’s faculty, scholars who are passionate about
+            advancing knowledge, shaping the practice of management, and
+            inspiring passion in their students. Our faculty members stay close
+            to practice, interacting in the field with leaders and managers who
+            are confronting the day’s most pressing business challenges.
           </p>
           <p>
-            HBS research budgets provide the School's faculty the freedom to
-            pursue the questions that interest them most and stay close to
-            practice, generating insights that can help address the most
-            pressing issues confronting businesses, organizations, and society.
-            The faculty then bring the learnings from these interactions back
-            into the classroom. By informing their teaching in all the School's
-            educational programs, their knowledge educates the next generation
-            of leaders and influences the practice of management on a global
-            scale.
+            They apply knowledge gained in the field to generate intellectual
+            capital, including case studies, books, articles, and online content
+            to educate leaders and influence the managers on a global scale.
+            Completing the self-sustaining cycle, income earned through key
+            revenue streams—Executive Education, Harvard Business Publishing
+            (HBP), and Harvard Business School Online—supplements revenues from
+            MBA tuition and alumni gifts as key sources of funding for faculty
+            research. These programs help provide the financial resources that
+            enable the School to deliver on its mission of educating leaders who
+            make a difference in the world.
           </p>
           <p>
-            As I write, the world continues to face uncertainty. Container ships
-            bottleneck the world's ports; supply chains are unable to keep up
-            with demand, and product shortages loom. Inflation is rising. Racial
-            injustice and economic inequality persist. Businesses are adapting
-            to the new dynamic of a remote workforce.
+            Over the history of HBS, we have aspired to serve as a living model
+            of a well-run organization, one that applies the skills, tools, and
+            frameworks taught across the School’s programs. Transparency is a
+            cornerstone of this goal. Toward this end, I invite you to review
+            our financial results in detail in the Supplemental Financial
+            Information section of this Annual Report.
           </p>
           <p>
-            HBS faculty members researched these and other issues in fiscal 2021
-            and, despite the pandemic, produced significant output. The School's
-            256 full-time equivalent (FTE) faculty produced 668 cases and course
-            development materials, as well as 491 books, articles, and working
-            papers. Additionally, the School convened nearly 1,400 academics and
-            practitioners across 10 research conferences and hosted a widely
-            attended virtual faculty research symposium.
+            The balance of this letter discusses our fiscal 2022 results in the
+            context of our economic model, concluding with the financial
+            forecast for fiscal 2023 and some thoughts on the longer-term
+            strategic outlook.
+          </p>
+
+          <h2>Fiscal 2022 Review</h2>
+          <p>
+            Total revenues grew 20 percent year over year to a record $966
+            million, driven primarily by Executive Education, HBP, and MBA
+            tuition and fees.
           </p>
           <p>
-            Innovation across the MBA Program continued in fiscal 2021, as the
-            School delivered the first year of the new joint MS/MBA in
-            Biotechnology: Life Sciences (a joint degree with the Graduate
-            School of Arts and Sciences and Harvard Medical School through the
-            Harvard Department of Stem Cell and Regenerative Biology). With so
-            many organizations requiring leaders who possess a broad skillset
-            and perspective, this and other joint degree programs provide
-            students with invaluable, cross-disciplinary expertise that equips
-            them to tackle diverse business challenges. Recognizing their
-            importance, HBS covers a portion of the staff and operational
-            expenses required to support them, and shares the MBA tuition with
-            the partnering Harvard schools. We receive generous support from HBS
-            alumni, whose gifts offset the expenses.
+            After a challenging fiscal 2021 in which Executive Education was
+            forced to halt operations and then rapidly transition to all-virtual
+            programing because of the pandemic, the group returned to largely on
+            campus programming in fiscal 2022. Revenues increased 115 percent
+            year over year to $174 million, exceeding our forecast. Equally
+            significant was the group’s ability to integrate the knowledge
+            gained during the pandemic, complementing 116 residential programs
+            with 52 fully virtual programs. The rebound in Executive Education
+            revenue is even more impressive considering that the group’s
+            on-campus programming was paused for a significant portion of the
+            winter to prevent an increase in COVID-19 cases associated with the
+            Omicron variant.
           </p>
           <p>
-            The Doctoral Program also made the successful transition to remote
-            learning, delivering 30 courses virtually. All of the Program's
-            graduates were fully employed at graduation, and the School
-            developed a financial aid plan to support an additional year for
-            those students whose job search was affected by the pandemic.
+            Turning to HBP, revenues increased to $302 million, the highest in
+            the group’s 28-year history and more than 10 percent higher than the
+            prior year. The group leaned into its mission to improve the
+            practice of management and its impact in a changing world,
+            introducing new content, products, and capabilities. Circulation for
+            Harvard Business Review, the group’s flagship publication, grew to a
+            record 352,000 readers in fiscal 2022, reflecting the strong demand
+            for high-quality digital and print content that gives managers and
+            executives the tools to enhance both personal and organizational
+            competitiveness.
           </p>
           <p>
-            The balance of my letter reports on our fiscal 2021 financial
-            results and our outlook for fiscal 2022. One of our financial goals
-            is for HBS to serve as a living example of a well-run organization,
-            embodying the skills, tools, and frameworks taught across the
-            School's educational programs. Transparency is intrinsic to
-            achieving this goal. Toward this end, the
-            <nuxt-link to="/financials/supplemental"
-              >Supplemental Financial Information</nuxt-link
-            >
-            section will explore our results in more detail.
-          </p>
-          <h2>Fiscal 2021 Review</h2>
-          <p>
-            Total revenue decreased by approximately 7 percent from the prior
-            year to $805 million, primarily reflecting lower revenue from MBA
-            tuition and Executive Education, partly offset by top-line gains
-            from HBP and HBS Online.
+            HBS Online revenues declined $2 million to $74 million in fiscal
+            2022 from $76 million in the prior year, primarily reflecting higher
+            customer acquisition costs amid increased competition in the
+            educational technology market. Total enrollment grew to 40,667
+            participants, 5 percent higher than the prior year. Although down
+            slightly on a year-over-year basis, HBS Online’s fiscal 2022 revenue
+            was 72 percent higher than that of fiscal 2019, the most recent
+            pre-COVID year.
           </p>
           <p>
-            For HBP, fiscal 2021 revenue increased 5 percent, as the group
-            advanced its goal of improving the practice of management and its
-            impact in a changing world. In support of that mission, HBP
-            developed content on timely and highly relevant issues such as
-            advancing racial equity, teaching in hybrid and virtual
-            environments, and the impact of the pandemic on the future of work.
+            The School’s annual endowment distribution for FY22 increased 4
+            percent to $191 million, or 20 percent of total revenues. The
+            increase reflected the University’s distribution rate and the size
+            of the endowment, which includes gifts from alumni and transfers
+            from the School to the endowment reserve.
           </p>
           <p>
-            The group's flagship publication, Harvard Business Review (HBR),
-            continued to generate value from its tiered subscription strategy,
-            launched in fiscal 2019. Reflecting the success of HBR's digital
-            initiatives and the relevance of its content, the number of average
-            monthly visitors to HBR.org has more than doubled over the past five
-            years.
+            The HBS alumni community gave generously in fiscal 2022, with a
+            combined $69 million in restricted and unrestricted current use
+            giving, or 46 percent of total cash received from gifts.
+            Unrestricted giving was particularly robust this past year, $45
+            million, 10 percent higher than fiscal 2021. These gifts represent
+            the philanthropic cornerstone on which the School pursues new
+            opportunities and advances the faculty’s pedagogical and research
+            agenda. During the year, HBS welcomed back to campus more than
+            14,000 alumni for MBA and Executive Education reunions that had been
+            postponed because of the pandemic.
           </p>
           <p>
-            Looking ahead, HBP is focused on driving growth across its core
-            editorial products, increasing its global scale, and building
-            strategic partnerships that enhance the group's capabilities and
-            broaden its reach. HBS Online revenue increased approximately 31
-            percent in fiscal 2021, significantly exceeding our forecast and
-            generating an operating surplus for the third consecutive year.
-            Through an expanded range of course offerings, HBS Online reached
-            more than 40,000 participants in fiscal 2021. The group has topped
-            122,000 participants since it began seven years ago. The group began
-            work on the Early College Business Initiative (ECBI), which seeks to
-            inspire underrepresented minority college students to pursue
-            management careers.
+            MBA tuition and fees increased $24 million, or 21 percent for the
+            fiscal year, to $137 million. The increase resulted primarily from
+            the arrival of students who had elected the deferral and leave
+            options implemented in fiscal 2021 in response to the pandemic.
+            Total enrollment in the MBA increased to 1,870 students from 1,609
+            students in the prior year. Fiscal 2022 marked the return of the
+            Field Immersion Experiences for Leadership Development (FIELD)
+            course after a two-year absence. In addition, the MBA program
+            graduated the first class of students from the MS/MBA Biotechnology:
+            Life Sciences Program.
           </p>
+          <p>
+            The School invested $43 million on capital spending in fiscal 2022,
+            up from $22 million in the prior year. Campus renewal initiatives
+            included the renovations of Cash House and Cumnock Hall, the
+            addition and fit-out of new leased co-working office space at 114
+            Western Avenue, as well as smaller projects. To ensure that the HBS
+            campus meets the needs of students, faculty, staff, and alumni over
+            the next decade, the School launched a campus framework planning
+            process. Designed to align future capital needs with the mission of
+            HBS, the process will inform strategic planning for the faculty
+            ecosystem, academic programs, residential campus, and digital
+            transformation.
+          </p>
+          <p>
+            In addition to campus renewal and maintenance, this past year we
+            continued to invest steadily in Information Technology, which
+            remains integral to the School’s growth. IT operating spending
+            increased 9 percent in fiscal 2022 to $98 million, accounting for 11
+            percent of total operating expenses. New investments included the
+            build-out of additional hybrid classrooms and conference rooms.
+            These and other infrastructure investments support the School’s
+            adaptive approaches to teaching, learning, and working and prepare
+            HBS for the evolving future of the workplace.
+          </p>
+          <p>
+            With the exponential growth of digitalization across the globe, the
+            need for a seamless digital infrastructure at HBS has never been
+            more clear. In that regard, a growing part of future budgets will
+            involve digital transformation. Launched as a strategic priority by
+            Dean Srikant Datar in fiscal 2022, digital transformation centers on
+            exploring new ways to use data and information technology to extend
+            the reach of the School’s research and teaching endeavors and to
+            facilitate deeper connections throughout the HBS community.
+          </p>
+          <p>
+            Dean Datar also launched two new Institutes: the Digital, Data, and
+            Design Institute at Harvard (D^3) and the Institute for Study of
+            Business in Global Society (BiGS). The purpose of D^3 is to study
+            how technological changes such as machine learning, digitalization,
+            and artificial intelligence are affecting business and society. The
+            goal of BiGS is to help harness business to address society’s
+            greatest challenges, such as economic inequality, environmental
+            destruction and racial injustice. In both areas, the faculty is
+            creating foundational and applied research that is brought back to
+            the classroom to guide students in their understanding of companies
+            and other types of organizations.
+          </p>
+          <p>
+            Against this revenue and capital investment backdrop, we maintained
+            our posture of prudent expense management and financial discipline
+            in fiscal 2022. Operating expenses grew 17 percent to $908 million,
+            to support the School’s higher revenues and the increased level of
+            activity on campus.
+          </p>
+          <p>
+            While in any given year our largest expense—people— is always the
+            same, the budget dynamics from one year to the next can be markedly
+            different. In fiscal 2021, with the uncertainty around the scope and
+            economic impact of the pandemic, the primary objective was to avoid
+            layoffs and furloughs. The School scaled back on myriad expenses,
+            curbed overtime, and froze pay rates for faculty and exempt staff.
+            As a result, salaries and benefits increased just 3 percent from
+            FY20 to FY21. In fiscal 2022, with the world having returned to a
+            greater semblance of normalcy, the emphasis shifted to ensuring a
+            smooth re-entry for students back to campus, and attracting and
+            retaining our faculty and staff.
+          </p>
+          <p>
+            Salaries and benefits totaled $428 million, or 47 percent of total
+            operating expenses, up 11 percent from the prior year. The
+            difference reflects an increase in full-time equivalent (FTE)
+            faculty and staff coupled with performance-related rate increases
+            and the growth in Executive Education payments. Consistent with the
+            School’s effort to grow the faculty, and by extension broaden its
+            research base, faculty FTEs grew to 272 this past year, 6 percent
+            higher than fiscal 2021.
+          </p>
+          <p>
+            Increased enrollment in fiscal 2022 drove a 14 percent increase in
+            space and occupancy expenses, which rose to $73 million from $64
+            million in the prior year. As a percentage of total operating
+            expenses, space and occupancy was flat at 8 percent versus fiscal
+            2021.
+          </p>
+          <p>
+            Buoyed by the increase in revenue, the School’s operating surplus
+            increased 123 percent to $58 million.
+          </p>
+          <!--
           <div class="split nopad">
             <div class="left">
               <div class="chart-title">
                 <p class="title">Fellowships <span>(in millions)</span></p>
               </div>
               <ul class="tan-list three-col">
-                <li>
-                  <span></span> <span>MBA</span><span>Total*</span>
-                </li>
+                <li><span></span> <span>MBA</span><span>Total*</span></li>
                 <li><span>FY 21</span> <span>$37</span><span>$53</span></li>
                 <li><span>FY 20</span> <span>40</span><span>57</span></li>
                 <li><span>FY 19</span> <span>38</span><span>51</span></li>
@@ -228,238 +302,86 @@
               </ul>
             </div>
           </div>
-          <div class="spacer_lg"></div>
+          -->
+          <h2>Fiscal 2023 Outlook</h2>
           <p>
-            Although Executive Education revenue was down approximately 45
-            percent, fiscal 2021 was a strong year for the group. With all
-            residential programs paused as a result of the pandemic, the group
-            rapidly shifted gears to provide impactful programming in a virtual
-            format.
+            As I begin my 20th year as chief financial officer of HBS, I have
+            never been more excited about the opportunities we have to
+            fundamentally influence the future of business leadership at a
+            global level through our renewed academic programs, digital
+            transformation, and new Institutes.
           </p>
           <p>
-            Over the course of the year, Executive Education designed and
-            delivered 70 virtual Comprehensive Leadership and Topic-Focused
-            Programs for more than 4,400 participants around the world. Of the
-            13,101 individuals who participated in programs in fiscal 2021, 32
-            percent were women—a significant increase from past years.
-            Reflecting the focus of sustaining an engaged learning environment,
-            participants rated the quality of the virtual Executive Education
-            experience as high.
+            We have prioritized our commitment to diversity, equity, and
+            inclusion (DEI) initiatives across HBS as we continue to develop the
+            infrastructure of the School’s recently formed Office of Diversity,
+            Equity, and Inclusion (ODEI) and develop a School-wide DEI
+            strategy.  One of the initial priorities includes increasing our
+            supplier diversity through the expansion of our partnerships with
+            Black- and minority-owned services providers. We look to further our
+            DEI progress through community engagement, learning and development
+            opportunities, and recruitment and retention plans.
           </p>
           <p>
-            Looking ahead, Executive Education plans to retain and enhance the
-            best aspects of the virtual, blended, and on-campus experiences to
-            drive sustainable growth across the portfolio.
+            Fiscal 2023 will be a year of significant investment in the new
+            digital transformation effort, as the School begins to develop a
+            holistic approach to collecting and managing data across the HBS
+            enterprise. Over time, capital will be invested in talent and tools
+            to advance the transformation. Plans include launching Centers of
+            Excellence to cultivate expertise in areas such as digital marketing
+            and social outreach, and community and lifelong learning, as well as
+            creating a digital incubator to provide resources for the
+            exploration of new ideas.
           </p>
           <p>
-            The School's annual endowment distribution for FY21 increased
-            approximately 6 percent to $184 million, or about 23 percent of
-            total revenues. The increase reflected the University's distribution
-            rate and the size of the endowment, which includes gifts from alumni
-            and transfers from the School to the endowment reserve.
+            With that as background, let me provide a brief look at our
+            near-term financial expectations. On the top line, we are
+            forecasting total revenue growth of 9 percent year over year in
+            fiscal 2023. Combined revenue from HBP, Executive Education, and HBS
+            Online are expected to grow about 10 percent from the prior year, as
+            these groups continue to focus on leveraging new technologies and
+            platforms to expand their reach. With enrollment increasing to
+            approximately 2,000 students in fiscal 2023, MBA tuition and fees
+            are expected to grow about 12 percent.
           </p>
           <p>
-            The endowment consists of more than 1,000 discrete funds established
-            over the years by individual donors, corporations, and reunion
-            classes. The School budgets the use of endowment distributions to
-            support operations based on the intentions of the donors and the
-            terms of individual gifts. While the endowment is the School's
-            largest financial asset, HBS is among the least dependent on
-            endowment income of the University's 12 degree-granting schools.
+            The ongoing support of HBS alumni will remain vital in fiscal 2023
+            and beyond. Restricted and unrestricted current use gifts are
+            critical to the School’s ability to propel innovative strategic
+            priorities, ensure we can provide need-based financial aid to
+            talented students, and support the faculty’s innovative research.
           </p>
           <p>
-            Revenue from current use gifts was ahead of forecast at $60 million
-            in fiscal 2021, flat with the prior year. Restricted and
-            unrestricted current use gifts will continue to play an important
-            role in innovation funding for HBS. This income enables the School
-            to immediately capitalize on emerging opportunities that advance the
-            faculty's pedagogical mission and research agenda.
+            The HBS endowment distribution is budgeted to increase 9 percent in
+            fiscal 2023, which represents the Corporation’s 4.5% approved
+            increase, plus distributions on new gifts.
           </p>
           <p>
-            MBA tuition and fees declined $23 million, or approximately 17
-            percent for the fiscal year, to $113 million. The change was driven
-            primarily by the flexible deferral and leave policy enacted in
-            response to COVID-19. Total enrollment in the MBA Program decreased
-            to 1,530 students from 1,847 students in the prior year. The
-            occupancy rate of HBS dorms—90 to 95 percent in a typical year—was
-            only 50 percent in FY21. For the second consecutive year, COVID-19
-            also caused the cancellation of the semester-long FIELD Global
-            Immersion course, resulting in a refund to students.
-          </p>
-                    <div class="split nopad">
-            <div class="left">
-              <div class="chart-title">
-                <p class="title">
-                  IT Investment
-                  <span>(in millions, excludes capital expenses)</span>
-                </p>
-              </div>
-              <ul class="tan-list two-col">
-                <li><span>FY 21</span> <span>$90</span></li>
-                <li><span>FY 20</span> <span>96</span></li>
-                <li><span>FY 19</span> <span>87</span></li>
-                <li><span>FY 18</span> <span>82</span></li>
-                <li><span>FY 17</span> <span>85</span></li>
-              </ul>
-            </div>
-            <div class="right">
-              <div class="chart-title">
-                <p class="title">
-                  Capital Investment <span>(in millions)</span>
-                </p>
-              </div>
-              <ul class="tan-list two-col">
-                <li><span>FY 21</span> <span>$22</span></li>
-                <li><span>FY 20</span> <span>43</span></li>
-                <li><span>FY 19</span> <span>38</span></li>
-                <li><span>FY 18</span> <span>92</span></li>
-                <li><span>FY 17</span> <span>78</span></li>
-              </ul>
-            </div>
-          </div>
-          <div class="split nopad">
-            <div class="left">
-              <div class="chart-title">
-                <p class="title">
-                  Building Debt Outstanding <span>(in millions)</span>
-                </p>
-              </div>
-              <ul class="tan-list two-col">
-                <li><span>FY 21</span> <span>$33</span></li>
-                <li><span>FY 20</span> <span>40</span></li>
-                <li><span>FY 19</span> <span>46</span></li>
-                <li><span>FY 18</span> <span>55</span></li>
-                <li><span>FY 17</span> <span>64</span></li>
-              </ul>
-            </div>
-            <div class="right">
-              <div class="chart-title">
-                <p class="title">Harvard Endowment Returns</p>
-              </div>
-              <ul class="tan-list two-col">
-                <li><span>FY 21</span> <span>33.6%</span></li>
-                <li><span>FY 20</span> <span>7.3</span></li>
-                <li><span>FY 19</span> <span>6.5</span></li>
-                <li><span>FY 18</span> <span>10.0</span></li>
-                <li><span>FY 17</span> <span>8.1</span></li>
-                <li><span>FY 16</span> <span>- 2.0</span></li>
-                <li><span>FY 15</span> <span>5.8</span></li>
-                <li><span>FY 14</span> <span>15.4</span></li>
-                <li><span>FY 13</span> <span>11.3</span></li>
-                <li><span>FY 12</span> <span>- 0.1</span></li>
-              </ul>
-            </div>
-          </div>
-          <div class="spacer_lg"></div>
-          <p>
-            As HBS leadership began planning for fiscal 2021, COVID-19 was at
-            the front of the decision-making process. Given the ongoing
-            uncertainty about the pandemic, all departments scrutinized their
-            budgets, preserving only those critical, strategically important
-            expenses that were feasible in light of COVID-related restrictions.
-            People were the priority. To avoid layoffs or furloughs, the School
-            scaled back on a range of expenses, reduced overtime, and kept pay
-            rates for faculty and exempt staff flat for the fiscal year.
+            Looking at expenses, our fiscal 2023 operating plan assumes an
+            increase of approximately 11 percent in total operating expenses,
+            about 46 percent of which relates to compensation for faculty and
+            administrative staff. Factoring in salary increases, benefit costs,
+            and anticipated vacancies, total compensation expense is expected to
+            increase from fiscal 2022. Collectively, the School’s other line
+            items are expected to increase 12 percent, primarily related to
+            investments to grow Executive Education, HBP, and HBS Online.
           </p>
           <p>
-            As a result of these initiatives, combined with the pandemic-related
-            decrease in campus activity, total operating expenses for fiscal
-            2021 declined approximately 6 percent to $779 million from $831
-            million in the prior year.
+            The School’s capital budget for fiscal 2023 is $39 million, 9
+            percent less than the $43 million invested in fiscal 2022. In
+            addition to ongoing work at 114 Western Avenue and Cumnock Hall,
+            this budget includes investments to complete the campus framework
+            plan, create start-up space for D^3 in Cotting House, and upgrade
+            several Executive Education hybrid classrooms.
           </p>
           <p>
-            Salaries and benefits, the largest component of operating expenses,
-            increased approximately 3 percent to $386 million. With faculty and
-            staff pay rates remaining flat in fiscal 2021, the variance
-            primarily related to the roughly 5 percent growth in FTE faculty.
-          </p>
-          <p>
-            Space and occupancy expenses declined 10 percent to $64 million,
-            reflecting the decrease in student enrollment and on-campus
-            activity. What is not immediately evident in this line item is that
-            the School invested several million dollars in pay continuation
-            benefits, consistent with its long-standing commitment to the
-            broader HBS community. These benefits ensured that hundreds of
-            contingent and contract workers, including cafeteria staff and
-            custodians, would continue to be paid even for periods they were not
-            needed on campus.
-          </p>
-          <p>
-            Of note, for fiscal 2021, Harvard University granted a one-time
-            waiver of a particular assessment the School pays annually to the
-            University. During a period of financial uncertainty, the waiver
-            allowed HBS to deploy more of its resources to support students and
-            the School community.
-          </p>
-          <p>
-            Reflecting the decline in revenue, cash from operations—the School's
-            operating surplus—declined approximately 13 percent to $26 million
-            from $30 million in fiscal 2020.
-          </p>
-          <p>
-            Capital expenses declined approximately 49 percent to $22 million in
-            fiscal 2021 from $43 million in the prior year. At the outset of the
-            pandemic, the School made a conscious effort to reduce its capital
-            spend for the year, focusing on mission-critical projects. These
-            projects included initiating the design and renovation of Cash House
-            and the renewal of McArthur Hall, and the build-out of hybrid
-            classrooms. Funds allocated to the hybrid classrooms were part of a
-            $15 million investment in testing and tracing, diagnostic and
-            personal protective equipment, enhancements to HVAC systems,
-            signage, and other measures designed to keep the School community
-            safe.
-          </p>
-          <h2>Fiscal 2022 Outlook</h2>
-          <p>
-            Fiscal 2022 marks the first full year for Dean Srikant M. Datar,
-            whose vision and experience have been central to setting our
-            strategic course and priorities for the year ahead.
-          </p>
-          <p>
-            The School's fiscal 2022 budget assumes that total revenues will
-            increase approximately 14 percent from the $805 million reported in
-            fiscal 2021. Combined revenue from HBP, HBS Online, and Executive
-            Education is expected to grow at a faster rate. With enrollment
-            returning to approximately 1,800 FTE students in fiscal 2022, the
-            budget forecasts MBA tuition and fees will grow in the low 20
-            percent range.
-          </p>
-          <p>
-            Restricted and unrestricted current use gifts, which represented
-            approximately 7 percent of total revenues in fiscal 2021, remain
-            vital to the School's health this coming fiscal year. The ongoing
-            support of the HBS community is integral to the School's ability to
-            advance its curricula, support the faculty's cutting-edge research,
-            and invest in the projects that fuel strategic innovation.
-          </p>
-          <p>
-            We expect HBS to benefit from a 2 percent growth in the endowment
-            distribution for fiscal 2022.
-          </p>
-          <p>
-            Moving down the income statement, operating expenses are expected to
-            increase approximately 19 percent, due in part to the larger faculty
-            and higher program-related expenses, including professional
-            services. As a result, the School has budgeted a small operating
-            deficit for the fiscal year.
-          </p>
-          <p>
-            The School's capital budget for fiscal 2022 is approximately $32
-            million, consisting primarily of building renovations and additional
-            upgrades to the hybrid classrooms.
-          </p>
-          <p>
-            Regardless of the economic cycle, HBS continues to lean into its
-            mission to educate leaders who make a difference in the world. As an
-            institution built on participant-centered learning, we believe that
-            our investment in people will continue to differentiate—and
-            elevate—an HBS education. I want to thank the entire HBS community
-            for their dedication and many sacrifices during an exceptionally
-            challenging year. The technology through which education is
-            delivered will no doubt continue to evolve. But the School's
-            resource stewardship, outstanding faculty and staff, engaged
-            students, and the sustained support from our alumni, position us for
-            the opportunities ahead.
+            In summary, we begin fiscal 2023 positioned to deliver on the HBS
+            mission by continuing to provide robust support for innovative
+            teaching and research. Across the School’s core programs and
+            activities, the resilience and growth we demonstrated this year
+            underlines the value of our contribution to a connected world. As
+            always, we remain committed to being good stewards of the School’s
+            resources.
           </p>
           <img
             src="~/assets/img/melnick_signature_960x144.jpg"
@@ -470,7 +392,7 @@
           <p>
             <b class="semi">Richard P. Melnick, MBA 1992</b><br />
             <i>Chief Financial Officer</i><br />
-            01 NOV 2021
+            01 NOV 2022
           </p>
         </div>
       </article>
@@ -484,7 +406,7 @@ export default {
       main: false,
       isPage: true,
       title: "Financials",
-      subTitle: "From the CFO",
+      subTitle: "From the Chief Financial Officer",
     };
   },
   head() {
@@ -499,5 +421,4 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
