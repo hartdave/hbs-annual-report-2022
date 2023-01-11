@@ -120,6 +120,68 @@
             was 72 percent higher than that of fiscal 2019, the most recent
             pre-COVID year.
           </p>
+          <div class="split nopad">
+            <div class="left">
+              <div class="chart-title">
+                <p class="title">Fellowships <span>(in millions)</span></p>
+              </div>
+              <ul class="tan-list three-col">
+                <li><span></span> <span>MBA</span><span>Total*</span></li>
+                <li><span>FY 22</span> <span>$35</span><span>$57</span></li>
+                <li><span>FY 21</span> <span>37</span><span>53</span></li>
+                <li><span>FY 20</span> <span>40</span><span>57</span></li>
+                <li><span>FY 19</span> <span>38</span><span>51</span></li>
+                <li><span>FY 18</span> <span>37</span><span>50</span></li>
+              </ul>
+              <p class="sub">
+                <i>* Includes Doctoral Program &amp; Executive Education</i>
+              </p>
+            </div>
+            <div class="right">
+              <div class="chart-title">
+                <p class="title">
+                  Investment in Research <span>(in millions)</span>
+                </p>
+              </div>
+              <ul class="tan-list two-col">
+                <li><span>FY 22</span> <span>$140</span></li>
+                <li><span>FY 21</span> <span>126</span></li>
+                <li><span>FY 20</span> <span>131</span></li>
+                <li><span>FY 19</span> <span>152</span></li>
+                <li><span>FY 18</span> <span>144</span></li>
+              </ul>
+            </div>
+          </div>
+          <div class="split nopad">
+            <div class="left">
+              <div class="chart-title">
+                <p class="title">
+                  Publishing Revenue <span>(in millions)</span>
+                </p>
+              </div>
+              <ul class="tan-list two-col">
+                <li><span>FY 22</span> <span>$302</span></li>
+                <li><span>FY 21</span> <span>274</span></li>
+                <li><span>FY 20</span> <span>262</span></li>
+                <li><span>FY 19</span> <span>262</span></li>
+                <li><span>FY 18</span> <span>240</span></li>
+              </ul>
+            </div>
+            <div class="right">
+              <div class="chart-title">
+                <p class="title">
+                  Executive Education Tuition <span>(in millions)</span>
+                </p>
+              </div>
+              <ul class="tan-list two-col">
+                <li><span>FY 22</span> <span>$174</span></li>
+                <li><span>FY 21</span> <span>81</span></li>
+                <li><span>FY 20</span> <span>146</span></li>
+                <li><span>FY 19</span> <span>222</span></li>
+                <li><span>FY 18</span> <span>207</span></li>
+              </ul>
+            </div>
+          </div>
           <p>
             The School’s annual endowment distribution for FY22 increased 4
             percent to $191 million, or 20 percent of total revenues. The
@@ -239,70 +301,7 @@
             Buoyed by the increase in revenue, the School’s operating surplus
             increased 123 percent to $58 million.
           </p>
-          <!--
-          <div class="split nopad">
-            <div class="left">
-              <div class="chart-title">
-                <p class="title">Fellowships <span>(in millions)</span></p>
-              </div>
-              <ul class="tan-list three-col">
-                <li><span></span> <span>MBA</span><span>Total*</span></li>
-                <li><span>FY 21</span> <span>$37</span><span>$53</span></li>
-                <li><span>FY 20</span> <span>40</span><span>57</span></li>
-                <li><span>FY 19</span> <span>38</span><span>51</span></li>
-                <li><span>FY 18</span> <span>37</span><span>50</span></li>
-                <li><span>FY 17</span> <span>36</span><span>48</span></li>
-              </ul>
-              <p class="sub">
-                <i>* Includes Doctoral Program &amp; Executive Education</i>
-              </p>
-            </div>
-            <div class="right">
-              <div class="chart-title">
-                <p class="title">
-                  Investment in Research <span>(in millions)</span>
-                </p>
-              </div>
-              <ul class="tan-list two-col">
-                <li><span>FY 21</span> <span>$126</span></li>
-                <li><span>FY 20</span> <span>131</span></li>
-                <li><span>FY 19</span> <span>152</span></li>
-                <li><span>FY 18</span> <span>144</span></li>
-                <li><span>FY 17</span> <span>136</span></li>
-              </ul>
-            </div>
-          </div>
-          <div class="split nopad">
-            <div class="left">
-              <div class="chart-title">
-                <p class="title">
-                  Publishing Revenue <span>(in millions)</span>
-                </p>
-              </div>
-              <ul class="tan-list two-col">
-                <li><span>FY 21</span> <span>$274</span></li>
-                <li><span>FY 20</span> <span>262</span></li>
-                <li><span>FY 19</span> <span>262</span></li>
-                <li><span>FY 18</span> <span>240</span></li>
-                <li><span>FY 17</span> <span>221</span></li>
-              </ul>
-            </div>
-            <div class="right">
-              <div class="chart-title">
-                <p class="title">
-                  Executive Education Tuition <span>(in millions)</span>
-                </p>
-              </div>
-              <ul class="tan-list two-col">
-                <li><span>FY 21</span> <span>$81</span></li>
-                <li><span>FY 20</span> <span>146</span></li>
-                <li><span>FY 19</span> <span>222</span></li>
-                <li><span>FY 18</span> <span>207</span></li>
-                <li><span>FY 17</span> <span>191</span></li>
-              </ul>
-            </div>
-          </div>
-          -->
+
           <h2>Fiscal 2023 Outlook</h2>
           <p>
             As I begin my 20th year as chief financial officer of HBS, I have
