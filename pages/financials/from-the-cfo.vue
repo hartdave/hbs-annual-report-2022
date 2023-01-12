@@ -260,6 +260,70 @@
             the classroom to guide students in their understanding of companies
             and other types of organizations.
           </p>
+          <div class="split nopad">
+            <div class="left">
+              <div class="chart-title">
+                <p class="title">
+                  IT Investment
+                  <span>(in millions, excludes capital expenses)</span>
+                </p>
+              </div>
+              <ul class="tan-list two-col">
+                <li><span>FY 22</span> <span>$98</span></li>
+                <li><span>FY 21</span> <span>$90</span></li>
+                <li><span>FY 20</span> <span>$96</span></li>
+                <li><span>FY 19</span> <span>$87</span></li>
+                <li><span>FY 18</span> <span>$82</span></li>
+              </ul>
+            </div>
+            <div class="right">
+              <div class="chart-title">
+                <p class="title">
+                  Capital Investment <span>(in millions)</span>
+                </p>
+              </div>
+              <ul class="tan-list two-col">
+                <li><span>FY 22</span> <span>$43</span></li>
+                <li><span>FY 21</span> <span>$22</span></li>
+                <li><span>FY 20</span> <span>$43</span></li>
+                <li><span>FY 19</span> <span>$38</span></li>
+                <li><span>FY 18</span> <span>$92</span></li>
+              </ul>
+            </div>
+          </div>
+          <div class="split nopad">
+            <div class="left">
+              <div class="chart-title">
+                <p class="title">
+                  Building Debt Outstanding <span>(in millions)</span>
+                </p>
+              </div>
+              <ul class="tan-list two-col">
+                <li><span>FY 22</span> <span>$28</span></li>
+                <li><span>FY 21</span> <span>$33</span></li>
+                <li><span>FY 20</span> <span>$40</span></li>
+                <li><span>FY 19</span> <span>$46</span></li>
+                <li><span>FY 18</span> <span>$55</span></li>
+              </ul>
+            </div>
+            <div class="right">
+              <div class="chart-title">
+                <p class="title">Harvard Endowment Returns</p>
+              </div>
+              <ul class="tan-list two-col">
+                <li><span>FY 22</span> <span>-1.8%</span></li>
+                <li><span>FY 21</span> <span>33.6%</span></li>
+                <li><span>FY 20</span> <span>7.3%</span></li>
+                <li><span>FY 19</span> <span>6.5%</span></li>
+                <li><span>FY 18</span> <span>10.0%</span></li>
+                <li><span>FY 17</span> <span>8.1%</span></li>
+                <li><span>FY 16</span> <span>-2.0%</span></li>
+                <li><span>FY 15</span> <span>5.8%</span></li>
+                <li><span>FY 14</span> <span>15.4%</span></li>
+                <li><span>FY 13</span> <span>11.3%</span></li>
+              </ul>
+            </div>
+          </div>
           <p>
             Against this revenue and capital investment backdrop, we maintained
             our posture of prudent expense management and financial discipline
