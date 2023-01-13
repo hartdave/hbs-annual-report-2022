@@ -8,7 +8,7 @@
         >Financial Highlights</nuxt-link
       >
     </li>
-    <!--
+
     <li>
       <nuxt-link to="/financials/statement-of-activity"
         >Statement of Activity &amp; Cash Flows</nuxt-link
@@ -18,7 +18,7 @@
       <nuxt-link to="/financials/consolidated-balance"
         >Consolidated Balance Sheet</nuxt-link
       >
-    </li>-->
+    </li>
     <li>
       <nuxt-link to="/financials/supplemental"
         >Supplemental Financial Information</nuxt-link
