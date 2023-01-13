@@ -74,8 +74,8 @@
               <ul class="tan-list">
                 <li><span>31%</span> Publishing</li>
                 <li><span>27%</span> Endowment Distribution &amp; Current</li>
-                <li><span>14%</span> MBA Tuition &amp; Fees</li>
                 <li><span>18%</span> Executive Education Tuition</li>
+                <li><span>14%</span> MBA Tuition &amp; Fees</li>
                 <li><span>8%</span> HBS Online</li>
                 <li><span>2%</span> Housing, Rents, &amp; Other</li>
               </ul>
@@ -350,8 +350,8 @@
             operations and for one-time or time-limited strategic purposes. This
             rate applies to HBS and to all schools at Harvard.
           </p>
-          <div class="float-right">
-            <div>
+          <div class="split nopad">
+            <div class="right">
               <Chart
                 chartTitle="Endowment Distribution"
                 chartSubtitle="(in millions)"
@@ -389,7 +389,7 @@
                 ]"
               />
             </div>
-            <!--
+
             <div class="right">
               <div class="chart-title">
                 <p class="title">Endowment Distribution Components</p>
@@ -404,7 +404,6 @@
                 <li><span>5%</span> Building Operations</li>
               </ul>
             </div>
-            -->
           </div>
           <div class="spacer_lg"></div>
           <p>
@@ -581,15 +580,15 @@
               </div>
               <ul class="tan-list">
                 <li><span>47%</span> Salaries &amp; Benefits</li>
-                <li><span>14%</span> Supplies &amp; Equipment</li>
+                <li><span>14%</span> Other</li>
                 <li><span>10%</span> Publishing &amp; Printing</li>
                 <li><span>8%</span> Space &amp; Occupancy</li>
                 <li><span>6%</span> Fellowships</li>
                 <li><span>6%</span> Professional Services</li>
                 <li><span>5%</span> Depreciation</li>
                 <li><span>3%</span> University Assessments</li>
-                <li><span>&lt;1%</span> Debt Service</li>
-                <li><span>&lt;1%</span> Other</li>
+                <li><span>1%</span> Supplies &amp; Equipment</li>
+                <li><span>0%</span> Debt Service</li>
               </ul>
             </div>
           </div>
