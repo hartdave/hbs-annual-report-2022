@@ -4,6 +4,9 @@
       <TheMenu :main="main" :isPage="isPage" :title="title" />
     </div>
     <main id="maincontent">
+      <h2 style="color: #a41034; display: flex; justify-content: center">
+        **Will update once 2022 approved files are ready**
+      </h2>
       <article class="downloads container">
         <div class="download">
           <img
@@ -12,7 +15,7 @@
             alt="Download Full Report"
             title="Thumbnail of 2021 Report"
           />
-          <a href="annual.pdf" >Download Full Report</a>
+          <a href="annual.pdf">Download Full Report</a>
         </div>
         <div class="download">
           <img
@@ -21,7 +24,7 @@
             alt="Download Financials"
             title="Thumbnail of Financials"
           />
-          <a href="financials.pdf" >Download Financials</a>
+          <a href="financials.pdf">Download Financials</a>
         </div>
       </article>
     </main>
@@ -48,5 +51,4 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
