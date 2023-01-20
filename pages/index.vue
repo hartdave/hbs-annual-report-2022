@@ -23,6 +23,7 @@
             src="~/assets/img/students-arrive.png"
             title="Students Arrive"
             alt="Students talking outside"
+            loading="lazy"
           />
         </div>
         <div class="content">
@@ -84,6 +85,7 @@
                 src="~/assets/img/0.0_faculty-new-bhatt_360x360.jpg"
                 title="Anjali M. Bhatt"
                 alt="Organizational Behavior"
+                loading="lazy"
               />
               <a
                 href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=656900"
@@ -97,6 +99,7 @@
                 src="~/assets/img/0.0_faculty-new-deFreitas_360x360.jpg"
                 title="Julian De Freitas"
                 alt="Marketing"
+                loading="lazy"
               />
               <a
                 href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1326184"
@@ -110,6 +113,7 @@
                 src="~/assets/img/0.0_faculty-new-jackson_360x360.jpg"
                 title="Summer R. Jackson"
                 alt="Organizational Behavior"
+                loading="lazy"
               />
               <a
                 href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=946932"
@@ -123,6 +127,7 @@
                 src="~/assets/img/0.0_faculty-new-kang_360x360.jpg"
                 title="Jung Koo Kang"
                 alt="Accounting &amp; Management"
+                loading="lazy"
               />
               <a
                 href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1324810"
@@ -136,6 +141,7 @@
                 src="~/assets/img/0.0_faculty-new-karp_360x360.jpg"
                 title="Rebecca A. Karp"
                 alt="Strategy"
+                loading="lazy"
               />
               <a
                 href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=998715"
@@ -149,6 +155,7 @@
                 src="~/assets/img/0.0_faculty-new-lu_360x360.jpg"
                 title="Shirley Lu"
                 alt="Accounting &amp; Management"
+                loading="lazy"
               />
               <a
                 href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=722144"
@@ -162,6 +169,7 @@
                 src="~/assets/img/0.0_faculty-new-McFowland_360x360.jpg"
                 title="Edward McFowland III"
                 alt="Technology &amp; Operations Management"
+                loading="lazy"
               />
               <a
                 href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=772797"
@@ -175,6 +183,7 @@
                 src="~/assets/img/0.0_faculty-new-neel_360x360.jpg"
                 title="Seth Neel"
                 alt="Technology &amp; Operations Management"
+                loading="lazy"
               />
               <a
                 href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1326892"
@@ -188,6 +197,7 @@
                 src="~/assets/img/0.0_faculty-new-robertson_360x360.jpg"
                 title="Charlotte L. Robertson"
                 alt="Business, Government &amp; the International Economy"
+                loading="lazy"
               />
               <a
                 href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1322911"
@@ -203,6 +213,7 @@
                 src="~/assets/img/0.0_faculty-new-sammon_360x360.jpg"
                 title="Marco Sammon"
                 alt="Finance"
+                loading="lazy"
               />
               <a
                 href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1326895"
@@ -216,6 +227,7 @@
                 src="~/assets/img/0.0_faculty-new-seegars_360x360.jpg"
                 title="Lumumba B. Seegars"
                 alt="Organizational Behavior"
+                loading="lazy"
               />
               <a
                 href="https://www.hbs.edu/faculty/Pages/profile.aspx?facId=743283"

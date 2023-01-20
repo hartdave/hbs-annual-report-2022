@@ -17,7 +17,7 @@ export default {
   css: ["@@/assets/main.scss"],
   components: true,
   buildModules: ["nuxt-webpack-optimisations"],
-  modules: ["nuxt-lazy-load"],
+  // modules: ["nuxt-lazy-load"],
   styleResources: {
     scss: ["./assets/variables.scss"],
   },
